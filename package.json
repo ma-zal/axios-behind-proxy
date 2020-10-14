@@ -1,0 +1,16 @@
+{
+  "name": "axios-behind-proxy",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Martin Zaloudek (www.zal.cz)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ma-zal/axios-behind-proxy.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@types/tunnel": "^0.0.1",
+    "axios": "^0.20.0",
+    "tunnel": "^0.0.6"
+  }
+}
